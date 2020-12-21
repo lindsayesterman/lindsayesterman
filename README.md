@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **React, Express, Node, and Postgresql**
 
--  👩💻 A few of my projects are available at [http://lindsayesterman.com](http://lindsayesterman.com)
+- 👩‍💻 A few of my projects are available at [http://lindsayesterman.com](http://lindsayesterman.com)
 
 - 📫 How to reach me **lindsayesterman@gmail.com**
 
