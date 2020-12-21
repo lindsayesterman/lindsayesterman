@@ -1,9 +1,9 @@
 <h1 align="left">Hey, I'm Lindsay</h1>
 <h3 align="left">Student with a deep interest in computer programming and artificial intelligence.</h3>
 
-- 🌱 I’m currently working with **React, Express, Node, Postgresql**
+- 🌱 I’m currently working with **React, Express, Node, and Postgresql**
 
-- 👨‍💻 A few of my projects are available at [http://lindsayesterman.com](http://lindsayesterman.com)
+-  👩 💻 A few of my projects are available at [http://lindsayesterman.com](http://lindsayesterman.com)
 
 - 📫 How to reach me **lindsayesterman@gmail.com**
 
