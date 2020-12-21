@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lindsay</h1>
-<h3 align="center">Student with a deep interest in computer programming and artificial intelligence.</h3>
+<h1 align="left">Hi 👋, I'm Lindsay</h1>
+<h3 align="left">Student with a deep interest in computer programming and artificial intelligence.</h3>
 
 - 🌱 I’m currently working with **React, Express, Node, Postgresql**
 
