@@ -2,12 +2,8 @@
 <h3 align="left">Student with a deep interest in computer programming and artificial intelligence.</h3>
 
 -  🍃 I’m currently working with **Postgresql, Express, React, and Node**
-
 - 👩‍💻 Check out some of my projects at [lindsayesterman.com](http://lindsayesterman.com)
-
 - ✉️ Reach me at **lindsayesterman@gmail.com**
-
--  🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/lindsayesterman/)
 
 <h3 align="left">Languages and Tools:</h3>
 
