@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
+            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3"
             width="30" height="30" /> </a> <a href="https://expressjs.com" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
             alt="express" width="30" height="30" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
