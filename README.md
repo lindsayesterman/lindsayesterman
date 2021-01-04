@@ -34,5 +34,5 @@
             width="30" height="30" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"
             width="30" height="30" /> </a> <a href="https://www.sketch.com/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30" />
+            src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30" />
     </a> </p>
