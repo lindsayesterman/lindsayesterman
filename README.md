@@ -1,5 +1,5 @@
 <h3 align="left">Hey, I'm Lindsay. </h3>
-<h4 align="left"> Student with a deep interest in full-stack web development and design.</h4>
+<h4 align="left"> I like developing and designing web apps.</h4>
 
 -  🌐  Currently working with **PostgreSQL, Express, React, and Node**
 - 👩‍💻 Check out some of my projects at **[lindsayesterman.com](http://lindsayesterman.com)**
