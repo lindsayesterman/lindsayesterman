@@ -6,8 +6,6 @@
 - 👩‍💻 Check out some of my projects at **[lindsayesterman.com](http://lindsayesterman.com)**
 - ✉️ Reach me at **lindsayesterman@gmail.com**
 
-<h4 align="left">I'm currently looking for a summer internship and would love to speak with you!</h4>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img
