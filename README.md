@@ -2,7 +2,7 @@
 
 <h4 align="left">Bootcamp grad who likes developing and designing websites.</h4>
 
--  🌐  Currently working with **PostgreSQL, Express, React, and Node**
+-  🌐  Currently working with **React & Firebase**
 - 👩‍💻 Check out some of my projects at **[lindsayesterman.com](http://lindsayesterman.com)**
 - ✉️ Reach me at **lindsayesterman@gmail.com**
 
