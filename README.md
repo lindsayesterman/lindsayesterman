@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-            width="30" height="30" /> </a> <a href="https://expressjs.com" target="_blank"> <img
+            width="30" height="30" /> </a> <a href="https://firebase.google.com/" target="_blank"> <img 
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
+            <a href="https://expressjs.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
             alt="express" width="30" height="30" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a> <a
@@ -36,4 +38,5 @@
             src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"
             width="30" height="30" /> </a> <a href="https://www.sketch.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30" />
-    </a> </p>
+            </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" 
+            alt="chartjs" width="30" height="30"/> </a> </p>
