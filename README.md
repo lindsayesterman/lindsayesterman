@@ -1,4 +1,4 @@
-<h3 align="left">Hey, I'm Lindsay. </h3>
+<h3 align="left">Hey, I'm Lindsay! </h3>
 
 <h4 align="left">Bootcamp grad who likes developing and designing websites.</h4>
 
