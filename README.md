@@ -1,6 +1,6 @@
 <h3 align="left">Hey, I'm Lindsay! </h3>
 
-<h4 align="left">Bootcamp grad who likes developing and designing websites.</h4>
+<h4 align="left">Emory CS student who likes developing and designing websites.</h4>
 
 -  🌐  Currently working with **React & Firebase**
 - 👩‍💻 Check out some of my projects at **[lindsayesterman.com](http://lindsayesterman.com)**
